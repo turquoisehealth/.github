@@ -1,12 +1,12 @@
-## Description
-<Please erase this and add a description explaining what this Pull Request does.
-Feel free to include relavent links to tickets or reference material.>
+# Description
+_(Please erase this and add a description explaining what this Pull Request does.
+Feel free to include relavent links to tickets or reference material.)_
 
 ## Release Notes
-<Are there any specific release steps we should know about. This may help us
-roll back should something go wrong.>
+_(Are there any specific release steps we should know about. This may help us
+roll back should something go wrong.)_
 
 ## Testing
-<Please note what if any testing you've done on this branch. Simply adding
+_(Please note what if any testing you've done on this branch. Simply adding
 automated tests may be enough. Otherwise please explain any manual testing
-you've done to verify your changes.>
+you've done to verify your changes.)_
